@@ -24,8 +24,8 @@ $ng serve
 
 You will be able to see the following page on the localhost on port 4200 with the URL as http://localhost/4200:
 
-![](Images/English.PNG)
+![](images/English.PNG)
 
 After the translation of the text into French, it will look like follows:
 
-![](Images/French.png)
+![](images/French.png)
