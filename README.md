@@ -1,4 +1,4 @@
-# angular-translation
+# Sample Application for a Multi-Language Application with Angular
 
 Implementing i18n and localization in your Angular application is an important step in making your application accessible to users who speak different languages and live in different locales.
 
