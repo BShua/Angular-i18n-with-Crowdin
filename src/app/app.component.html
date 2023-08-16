@@ -1,8 +1,4 @@
-<h1
-  i18n="User welcome|An introduction header for this sample@@introductionHeader"
->
-  Hello!
-</h1>
+<h1 i18n>Hello!</h1>
 
 <ng-container i18n>I cannot translate everything</ng-container>
 
@@ -14,7 +10,8 @@
 <button type="button" (click)="inc(-1)">-</button>
 <span i18n
   >Counter updated {minutes, plural, =0 {just now} =1 {one minute ago} other
-  {{{minutes}} minutes ago}}</span>
+  {{{minutes}} minutes ago}}</span
+>
 ({{ minutes }}) <br /><br />
 <button type="button" (click)="english()">English</button>
 <button type="button" (click)="french()">French</button>
