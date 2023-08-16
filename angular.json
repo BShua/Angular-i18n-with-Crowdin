@@ -66,6 +66,7 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
+            "i18nMissingTranslation": "warning",
             "production": {
               "browserTarget": "angular.io-example:build:production"
             },
@@ -76,7 +77,10 @@
               "browserTarget": "angular.io-example:build:development,fr"
             }
           },
-          "defaultConfiguration": "development"
+          "defaultConfiguration": "development",
+          "options": {
+            "i18nMissingTranslation": "warning"
+          }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
