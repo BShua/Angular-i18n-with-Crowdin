@@ -1,0 +1,14 @@
+{
+  "locale": "he-IL",
+  "translations": {
+    "introductionHeader": " שלום!\n",
+    "5679525672345141646": "אני לא יכול לתרגם הכל",
+    "9072984787175086714": "OpenRecipe logo",
+    "3444734903756190318": "Counter updated {$ICU}",
+    "2002272803511843863": "{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {{INTERPOLATION} minutes ago}}",
+    "185501623995169305": "The page is in {$ICU}",
+    "1510950884237174218": "{VAR_SELECT, select, english {english} french {french}}",
+    "3967965900462880190": "Updated: {$ICU}\n",
+    "984866642490032142": "{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {{INTERPOLATION} minutes ago {VAR_SELECT, select, english {english} french {french}}}}"
+  }
+}
