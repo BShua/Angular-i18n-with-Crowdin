@@ -1,8 +1,8 @@
 {
-  "locale": "en-US",
+  "locale": "he-IL",
   "translations": {
-    "introductionHeader": " Hello!\n",
-    "5679525672345141646": "I cannot translate everything",
+    "introductionHeader": " שלום!\n",
+    "5679525672345141646": "אני לא יכול לתרגם הכל",
     "9072984787175086714": "OpenRecipe logo",
     "3444734903756190318": "Counter updated {$ICU}",
     "2002272803511843863": "{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {{INTERPOLATION} minutes ago}}",
