@@ -8,7 +8,7 @@
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
-        <target state="needs-translation">Hello123!</target>
+        <target state="translated">שלום123!</target>
       </trans-unit>
       <trans-unit id="5679525672345141646" datatype="html">
         <source>I cannot translate everything</source>
@@ -64,7 +64,7 @@
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
-        <target state="needs-translation">BEN IS #1</target>
+        <target state="translated">בן מספר #1</target>
       </trans-unit>
       <trans-unit id="3967965900462880190" datatype="html">
         <source>Updated: <x id="ICU" equiv-text="{minutes, plural, =0 {just now} =1 {one minute ago} other   {{{minutes}} minutes ago {language, select, english {english} french   {french}}}}" xid="8839029629530767100"/>
