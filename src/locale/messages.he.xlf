@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="he">
     <body>
-      <trans-unit id="5221938886751387620" datatype="html" approved="yes">
-        <source>Hello!</source>
+      <trans-unit id="8848503645755687734" datatype="html">
+        <source>Hello123!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
-        <target state="final">שלום!</target>
+        <target state="translated">שלום123!</target>
       </trans-unit>
       <trans-unit id="5679525672345141646" datatype="html">
         <source>I cannot translate everything</source>
@@ -58,12 +58,20 @@
         </context-group>
         <target state="needs-translation">{VAR_SELECT, select, english {english} french {french}}</target>
       </trans-unit>
+      <trans-unit id="2499582428807492687" datatype="html">
+        <source>BEN IS #1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <target state="translated">בן מספר #1</target>
+      </trans-unit>
       <trans-unit id="3967965900462880190" datatype="html">
         <source>Updated: <x id="ICU" equiv-text="{minutes, plural, =0 {just now} =1 {one minute ago} other   {{{minutes}} minutes ago {language, select, english {english} french   {french}}}}" xid="8839029629530767100"/>
 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">23,26</context>
+          <context context-type="linenumber">24,27</context>
         </context-group>
         <target state="needs-translation">Updated: <x id="ICU" equiv-text="{minutes, plural, =0 {just now} =1 {one minute ago} other   {{{minutes}} minutes ago {language, select, english {english} french   {french}}}}" xid="8839029629530767100"/>
 </target>
@@ -72,7 +80,7 @@
         <source>{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {<x id="INTERPOLATION"/> minutes ago {VAR_SELECT, select, english {english} french {french}}}}</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">23,25</context>
+          <context context-type="linenumber">24,26</context>
         </context-group>
         <target state="needs-translation">{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {<x id="INTERPOLATION"/> minutes ago {VAR_SELECT, select, english {english} french {french}}}}</target>
       </trans-unit>
